@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class SpringBoot1Application {
-
+//something to commit
     public static void main(String[] args) {
         SpringApplication.run(SpringBoot1Application.class, args);
     }
